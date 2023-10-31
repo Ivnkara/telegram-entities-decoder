@@ -1,5 +1,5 @@
 {
-    "name": "lucadevelop/telegram-entities-decoder",
+    "name": "ivnkara/telegram-entities-decoder",
     "description": "Telegram entities decoder in PHP",
     "type": "library",
     "require": {
