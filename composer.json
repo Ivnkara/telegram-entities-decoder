@@ -2,7 +2,7 @@
     "name": "ivnkara/telegram-entities-decoder",
     "description": "Telegram entities decoder in PHP",
     "type": "library",
-    "version": "v0.0.2",
+    "version": "v0.0.3",
     "require": {
         "php": ">=7.0.0",
         "ext-mbstring": "*",
